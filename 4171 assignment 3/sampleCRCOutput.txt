@@ -1,0 +1,26 @@
+1:
+IF sender Enter 0, IF receiver Enter 1:
+0
+Please Enter mx: 1101011
+
+Please Enter gx: 1101
+
+Message sent is: 1101011010
+
+2:
+IF sender Enter 0, IF receiver Enter 1:
+1
+Please Enter px: 10101010100010
+
+Please Enter gx: 11001
+
+no error
+
+3:
+IF sender Enter 0, IF receiver Enter 1:
+1
+Please Enter px: 1101011011
+
+Please Enter gx: 1101
+
+Error caught
