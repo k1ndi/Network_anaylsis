@@ -1,0 +1,28 @@
+input 1:
+Enter the prime numbers p and q: 13 17
+Public RSA key is (5, 221)
+Private RSA key is (77, 221)
+Enter the plaintext message m (an integer): 12
+Encrypting m...
+The ciphertext c is 207
+The plaintext c is 12
+
+
+input 2:
+Enter the prime numbers p and q: 11 17
+Public RSA key is (3, 187)
+Private RSA key is (107, 187)
+Enter the plaintext message m (an integer): 5
+Encrypting m...
+The ciphertext c is 125
+The plaintext c is 5
+
+input 3:
+
+Enter the prime numbers p and q: 23 27
+Public RSA key is (3, 621)
+Private RSA key is (191, 621)
+Enter the plaintext message m (an integer): 6
+Encrypting m...
+The ciphertext c is 216
+The plaintext c is 351
